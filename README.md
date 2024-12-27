@@ -25,7 +25,11 @@ This Readme provides a concise guide to interacting with MySQL databases using t
 This guide is intended for developers with a basic understanding of Python and a desire to work with MySQL databases. It serves as a starting point for building robust and efficient data-driven applications.
 
 Key Features:
+
 Clear and concise: The guide focuses on the most important concepts and provides practical examples.
+
 Easy to follow: The code examples are well-formatted and easy to understand.
+
 Practical focus: The guide emphasizes real-world scenarios and best practices.
+
 Extensible: The provided framework can be easily extended to accommodate more complex database interactions.
