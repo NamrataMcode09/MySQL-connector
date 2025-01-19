@@ -1,4 +1,4 @@
-# JDBC
+# MYSQL CONNECTER
 # MySQL and Python Connector:
 This document provides a basic guide to using the MySQL Connector/Python library to interact with a MySQL database.
 
