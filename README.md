@@ -9,7 +9,7 @@ Using pip:
 
 MYSQL command line prompt:
 mysql -u root -p 
-# Enter root password
+# Enter root-password
 
 CREATE USER 'cdac'@'localhost' IDENTIFIED BY 'your_strong_password';
 
